@@ -1,4 +1,4 @@
-name = "single-chat-client"
+name = "twochat-frontend"
 compatibility_date = "2026-03-23"
 
 [assets]
